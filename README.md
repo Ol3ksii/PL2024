@@ -9,4 +9,4 @@ Each task is organized into its respective folder (TPC1, TPC2, etc...), which in
 ## Author:
 ![Foto](photo.jpg)
 - **102131** - [Oleksii Tantsura](https://www.github.com/Ol3ksii)
-- 
+  
