@@ -13,13 +13,16 @@ This Python program reads text from standard input and sums every digit sequence
 At the end of the text, the final total is also printed.
 
 ## Example Input 1 (input.txt)
+```txt
 Hoje, 7 de Fevereiro de 2025, o professor de Processamento de Linguagens 
 deu-nos
 este trabalho para fazer.=OfF
 E deu-nos 7= dias para o fazer... ON
 Cada trabalho destes vale 0.25 valores da nota final!
+```
 
 ## Example Output 1
+```txt
 Hoje, 7 de Fevereiro de 2025, o professor de Processamento de Linguagens 
 deu-nos
 este trabalho para fazer.=
@@ -30,8 +33,10 @@ E deu-nos 7=
  dias para o fazer... ON
 Cada trabalho destes vale 0.25 valores da nota final!
 >> 2057
+```
 
 ## Example Input 2
+```txt
 123=On
 Now 456 is added,
 OFF
@@ -39,8 +44,10 @@ Ignore 789
 Reset? on
 Add 1 2 3 again...= 
 Finish
+```
 
 ## Example Output 2
+```txt
 123=
 >> 123
 On
@@ -54,6 +61,7 @@ Add 1 2 3 again...=
 Finish
 
 >> 585
+```
 
 ## Usage
 The code is contained in the file **TPC1.py** and must be run with Python 3, taking its input from stdin:
