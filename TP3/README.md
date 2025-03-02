@@ -1,4 +1,4 @@
-# TPC2
+# TPC3
 
 **Author**: [**A102131** Oleksii Tantsura](https://www.github.com/Ol3ksii)
 
