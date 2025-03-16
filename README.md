@@ -4,7 +4,7 @@
 
 This repository was created for the 2025 Language Processing course and contains the solutions for the assigned weekly tasks (TPCs).
 
-Each task is organized into its respective folder (TPC1, TPC2, etc...), which includes all necessary files and a README.md explaining the work that was done.
+Each task is organized into its respective folder (TP1, TP2, etc...), which includes all necessary files and a README.md explaining the work that was done.
 
 ## Author:
 ![Foto](photo.jpg)
