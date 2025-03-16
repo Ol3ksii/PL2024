@@ -1,0 +1,32 @@
+[
+  {
+    "cod": "B10",
+    "nome": "Café Expresso",
+    "quant": 14,
+    "preco": 1.0
+  },
+  {
+    "cod": "B11",
+    "nome": "Chá Verde",
+    "quant": 8,
+    "preco": 1.2
+  },
+  {
+    "cod": "B12",
+    "nome": "Sumo de Laranja 250ml",
+    "quant": 6,
+    "preco": 1.5
+  },
+  {
+    "cod": "B13",
+    "nome": "Barra de Cereais",
+    "quant": 10,
+    "preco": 0.9
+  },
+  {
+    "cod": "B14",
+    "nome": "Bolacha de Chocolate",
+    "quant": 12,
+    "preco": 1.3
+  }
+]
